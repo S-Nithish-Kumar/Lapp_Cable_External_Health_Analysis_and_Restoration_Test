@@ -9,12 +9,12 @@
    <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#7-technical-specifications">Technical Specifications</a></li>
    <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#8-modeling-and-3d-printing">Modeling and 3D Printing</a></li>
    <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#9-user-interface">User Interface</a>
-   <ol type="A">
-      <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#a-kivy-framework">Kivy Framework</a></li>
-      <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#b-user-data-protocol-(udp)">User Data Protocol (UDP)</a></li>
-      <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#c-transfer-control-protocol-(tcp)">Transfer Control Protocol (TCP)</a></li>
-      <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#d-main-application">Main Application</a></li>
-      <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#e-program-structure">Program Structure</a></li>
+   <ol>
+      <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#kivy-framework">Kivy Framework</a></li>
+      <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#user-data-protocol-(udp)">User Data Protocol (UDP)</a></li>
+      <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#transfer-control-protocol-(tcp)">Transfer Control Protocol (TCP)</a></li>
+      <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#main-application">Main Application</a></li>
+      <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#program-structure">Program Structure</a></li>
    </ol></li>
    <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#10-problems-and-troubleshooting">Problems and Troubleshooting</a></li>
    <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#11-conclusion-and-future-works">Conclusion and Future Works</a></li>
