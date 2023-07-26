@@ -11,8 +11,8 @@
    <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#9-user-interface">User Interface</a>
    <ul>
       <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#a-kivy-framework">Kivy Framework</a></li>
-      <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#b-user-data-protocol-(udp)">User Data Protocol (UDP)</a></li>
-      <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#c-transfer-control-protocol-(tcp)">Transfer Control Protocol (TCP)</a></li>
+      <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#b-user-data-protocol-udp">User Data Protocol (UDP)</a></li>
+      <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#c-transfer-control-protocol-tcp">Transfer Control Protocol (TCP)</a></li>
       <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#d-main-application">Main Application</a></li>
       <li><a href="https://s-nithish-kumar.github.io/Lapp_Cable_External_Health_Analysis_and_Restoration_Test/#e-program-structure">Program Structure</a></li>
    </ul></li>
