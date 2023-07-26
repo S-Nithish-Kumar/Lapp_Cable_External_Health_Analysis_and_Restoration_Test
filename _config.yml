@@ -3,4 +3,3 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [Inspection Robot for Cable Fault Detection]
-description: [Internship at Lapp India Pvt. Ltd. in collaboration with PSG College of Technology, India ]
