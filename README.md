@@ -40,7 +40,7 @@
 - A Raspberry Pi SoC is used for controlling the robot and also to transmit the video feed to the user’s PC through Wi-Fi communication.
 
 <p align="center">
-<img src="images/outline_of_the_robot_design.png" height="80%" width="80%">
+<img src="images/outline_of_the_robot_design.png" height="50%" width="50%">
 </p>
 <p align="center">Figure 1 Outline of the Robot Design</p>
 
@@ -60,7 +60,7 @@ The push-pull method is used for the user profile design. This method has four m
 - Inertia - Besides anxiety, what is propelling to proceed further with the project?
 
 <p align="center">
-<img src="images/user_profile_design.png" height="80%" width="80%">
+<img src="images/user_profile_design.png" height="100%" width="100%">
 </p>
 <p align="center">Figure 3 User Profile Design</p>
 
