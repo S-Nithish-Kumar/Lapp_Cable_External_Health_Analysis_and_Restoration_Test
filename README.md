@@ -40,7 +40,7 @@
 - A Raspberry Pi SoC is used for controlling the robot and also to transmit the video feed to the user’s PC through Wi-Fi communication.
 
 <p align="center">
-<img src="images/outline_of_the_robot_design.png" height="50%" width="50%">
+<img src="images/outline_of_the_robot_design.png" height="40%" width="40%">
 </p>
 <p align="center">Figure 1 Outline of the Robot Design</p>
 
@@ -89,7 +89,7 @@ The Raspberry Pi controller has in-built wi-fi communication, which is required 
 ### 8. Modeling and 3D Printing:
 Modeling is done using Fusion 360 software. The outline of the robot design with all the components fixed in the appropriate positions is shown in the proposed approach section. Lapp India Pvt. Ltd. is the owner of the project, and the design of the robot cannot be shown due to copyrights. The designed components are 3D printed with Polylactic acid (PLA) material.
 
-### 9. Problems and Troubleshooting:
+### 9. User Interface:
 <p align="center">
 <img src="images/frontend_design_of_the_application.png" height="100%" width="100%">
 </p>
